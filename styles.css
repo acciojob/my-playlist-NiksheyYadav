@@ -1,1 +1,43 @@
-/*  your css code here. If applicable */
+ body{
+  padding: 25px;
+  background-color: rgb(204, 204, 204)
+}
+.title {
+	color: #5C6AC4;
+}
+
+.container {
+  margin: 25px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.container .container-box{
+  background-color: white;
+  border: 1px solid black;
+}
+
+.container-box li {
+  list-style-type: none;
+}
+
+/* Section 2 start here */
+.container #playNow {
+  text-align: center;
+}
+.container .assets {
+  background-color: white;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.player_one
